@@ -1,4 +1,4 @@
--- ITE 16
+-- ITE 16 - EF1
 -- Members: Rusell G. Pernito, Princess Eyre Bonghanoy, Mary Adrianne D. Bisoy 
 
 -- 1. List of Films Rented by Customers in Santiago, Alphabetically
