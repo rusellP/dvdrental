@@ -1,5 +1,5 @@
 -- ITE 16
--- Members: Rusell G. Pernito, Princess Eyre Bonghanoy, 
+-- Members: Rusell G. Pernito, Princess Eyre Bonghanoy, Mary Adrianne D. Bisoy 
 
 -- 1. List of Films Rented by Customers in Santiago, Alphabetically
 SELECT DISTINCT f.title
